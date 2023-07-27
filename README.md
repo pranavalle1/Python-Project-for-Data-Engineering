@@ -9,8 +9,8 @@ This report includes an analysis of a dataset in which we identify the dataset's
 2. Figuring which year (Sophomore, Freshman, Junior) produces the maximum number of players.
 3. Figuring out how the number of players on each team varies across different conferences and divisions.
 ## file description
-archive (5) - datasets
-wbb_rosters_2022_23 - main dataset
-Project DEM - python code
-Project proposal - description of the project
-DEM case study - a case study of the project
+1.archive (5) - datasets
+2.wbb_rosters_2022_23 - main dataset
+3.Project DEM - python code
+4.Project proposal - description of the project
+5.DEM case study - a case study of the project
