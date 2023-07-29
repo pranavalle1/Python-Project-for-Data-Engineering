@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head><title>by pranav alle</title></head>
+  <body>
+  <center><h1>Class Assignment 1</h1>
+     <li> <a href= "https://en.wikipedia.org/wiki/Nikola_Tesla" target="iframe_a">wikipedia</a></li>
+    <li> <a href= "https://tesla-museum.org/en/home/" target="iframe_a">Nikola Tesla Museum</a></li>
+    <li><a href= "https://idol-webpage-pranavsudhan202.wtwoxsen.repl.co/" target="iframe_a">Nikola Tesla</a></li>
+    <iframe height="300px" width="100%" src="https://idol-webpage-pranavsudhan202.wtwoxsen.repl.co/" name="iframe_a"></iframe>
+  </center>
+
+</html>
